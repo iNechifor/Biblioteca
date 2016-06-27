@@ -64,6 +64,11 @@
     </filter>
   </component>
   <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://89.38.230.8:8443/svn/main" />
+      </list>
+    </option>
     <option name="myTypedURLs">
       <list>
         <option value="https://89.38.230.8:8443/svn/main" />
